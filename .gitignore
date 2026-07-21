@@ -4,5 +4,6 @@
 *.vo
 *.vok
 *.vos
+*.out
 .lia.cache
 .nia.cache
