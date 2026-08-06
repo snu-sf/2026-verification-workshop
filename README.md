@@ -34,13 +34,6 @@ The corresponding presentation is
 extracted in
 [`day1/slides/Day1-notes.txt`](day1/slides/Day1-notes.txt).
 
-#### Day 1 lecture resources
-
-- Professor-led lecture: [CRIS: The power of imagination in specification and
-  verification](https://www.youtube.com/watch?v=TQqugVJQfe8&t=1067s) (starts
-  at 17:47).
-- Workshop lecture slides: [`day1/slides/Day1.pdf`](day1/slides/Day1.pdf).
-
 #### Day 1 timing
 
 | Block | Time | Material |
